@@ -52,4 +52,45 @@ The project uses the following CSV files:
 
 **Input:**
 
-Enter a movie title: Star Wars (1977)
+Enter a movie title: Babe (1995)
+
+
+**Output:**
+
+🎬 Top 5 movies similar to 'Babe (1995)':
+
+    Back to the Future (1985) — Similarity Score: 0.59
+
+    Raiders of the Lost Ark (1981) — Similarity Score: 0.57
+
+    E.T. the Extra-Terrestrial (1982) — Similarity Score: 0.57
+
+    Princess Bride, The (1987) — Similarity Score: 0.56
+
+    Empire Strikes Back, The (1980) — Similarity Score: 0.56
+
+    
+---
+
+## 📈 Visualizations
+
+- **Bar Chart**: Top 5 movie recommendations for a selected movie
+- **Heatmap**: Cosine similarity among the top 10 most-rated movies
+
+---
+
+## 📦 Future Improvements
+
+- Add a **Streamlit web app** for live interaction
+- Include **user-based recommendations**
+- Integrate with a movie poster API for enhanced UI
+
+---
+
+## 🤝 Credits
+
+Built with ❤️ using Python, pandas, scikit-learn, and seaborn.
+
+---
+
+
