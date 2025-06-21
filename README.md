@@ -1,6 +1,5 @@
 # 🎬 AI-Based-Movie-Recommendation-System
-A brief one-sentence description of your project. For example: "A machine learning project that suggests movies to users based on their preferences and viewing history."
-Movie Recommendation System
+
 
 This project builds a **content-based movie recommender system** using cosine similarity on user ratings data. It suggests movies similar to a given movie based on what other users have rated similarly.
 
